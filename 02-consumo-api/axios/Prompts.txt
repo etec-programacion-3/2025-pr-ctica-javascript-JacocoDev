@@ -1,0 +1,5 @@
+Lo que hice para resolver este ejercicio fue:
+
+ 1- Anote como levantar la pagina en index.html (No me acordaba bien como era y ahora ya lo tengo para un futuro).
+ 2- Analice lo que ya había en el ejercicio.js y lo compare con el resuelto.js.
+ 3- Analice e investigue en profundidad que hacia cada una de las funciones y comente algunas cosas.
